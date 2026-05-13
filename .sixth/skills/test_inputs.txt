@@ -1,0 +1,17 @@
+Test case:1
+Name:sompalli Lokesh
+Age:24
+City:Puttur
+Hobby:Reading
+
+Test case:2
+Nmae:Ravi
+Age:22
+City:Bangulore
+Hobby:Writing
+
+Test case:3
+Name:Mahi
+Age:23
+City:Tirupathi
+Hobby:Playing
